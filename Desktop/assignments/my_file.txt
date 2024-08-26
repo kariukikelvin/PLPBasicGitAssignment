@@ -1,0 +1,6 @@
+python is fun. 
+This is line Number: 2. 
+athe third line . 
+appending the fourth line. 
+the second number: 110. 
+the last line to append. 
